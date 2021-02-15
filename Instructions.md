@@ -2,7 +2,7 @@
 Github Branching Excercise
 =======================
 
-* Your github user has been invited to have access to this repo. You will need to check the email associated with your github user and agree to access. This tutorial will not work until you are a 'collaborator' on this project!! 
+* Your github user has been invited to have access to this repo. You will need to check the email associated with your github user and agree to access. This tutorial will not work until you are a 'collaborator' on this project!! [You can also approve the inivitation directly here](https://github.com/ftrotter/PoetryGitTutorial/invitations). 
 * In order to complete this tutorial, you will need to download [Github Desktop](https://desktop.github.com/) for your computer. If you really want to use GNU/Linux for this, you can... but then you will need complete all of the tasks without a GUI..
 * Make a branch on this repo. Your branch should begin with your name, and include the purpose of the branch. Something like <yourname>-new-poem sounds right.
 * Download this repo to your local machine using Github Desktop. This will download all of the branches on the repo. 
