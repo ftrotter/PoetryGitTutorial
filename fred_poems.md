@@ -1,7 +1,7 @@
-Armchair Old cozy 
+Deckchair Old cozy 
 
-A big, light butterfly float
+A large, light icecream float
 
 whilst enjoying the
 
--Fred + Some random online generator software. 
+-Fred 
