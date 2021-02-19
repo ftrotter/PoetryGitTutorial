@@ -1,7 +1,7 @@
-Deckchair Old cozy 
+Armchair, old, cozy 
 
-A large, light icecream float
+A big, light icecream floats
 
-whilst enjoying the
+whilst enjoying thee
 
 -Fred 
