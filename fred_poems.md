@@ -1,7 +1,7 @@
 Armchair, old, cozy 
 
-A big, light butterfly floats
+A big, light icecream floats
 
 whilst enjoying thee
 
--Fred + Some random online generator software. 
+-Fred 
