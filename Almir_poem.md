@@ -4,10 +4,10 @@
 ###### But Cold inside,
 ###### When snow in Houston.
 
-# It's snow joke - BAWDY LIMERICK
-## (Sourse: http://www.limerickpoemsandpoets.com/poems/winter_limerick_poems)
+# Sid snowman
+## (Original: http://www.limerickpoemsandpoets.com/poems/winter_limerick_poems)
 ###### In winter when snow softly falls
-###### Sid snowman clutches his snowballs
-###### He says I feel chilly
-###### There’s frost on my willy
+###### Sid snowman is made from snowballs
+###### He says I feel cold
+###### I think I'm getting old
 ###### I hope it melts when nature calls!
