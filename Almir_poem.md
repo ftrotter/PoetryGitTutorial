@@ -10,4 +10,4 @@
 ###### Sid snowman is made from snowballs
 ###### He says I feel cold
 ###### I think I'm getting old
-###### I hope it melts when nature calls!
+###### I wish I had some warm coveralls
