@@ -1,6 +1,6 @@
-Armchair Old cozy 
+Armchair, old, cozy 
 
-A big, light butterfly float
+A big, light butterfly floats
 
 whilst enjoying thee
 
