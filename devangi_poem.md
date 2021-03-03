@@ -1,5 +1,7 @@
-An old silent pond...
-A frog jumps into the pond,
-splash! Silence again.
+There was an Old Man with a beard
+Who said, "It is just as I feared!
+Two Owls and a Hen,
+Four Larks and a Wren,
+Have all built their nests in my beard!"
 
-Reference:https://examples.yourdictionary.com/examples-of-haiku-poems.html
+Reference:https://examples.yourdictionary.com/limerick-examples.html
