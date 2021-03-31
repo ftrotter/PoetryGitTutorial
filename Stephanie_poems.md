@@ -4,6 +4,6 @@ Past the black winter trees,
 
 Faint sounds of a flute
 
-By: Richard Wright
+Author: Richard Wright
 
 Website: https://examples.yourdictionary.com/examples-of-haiku-poems.html
