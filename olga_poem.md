@@ -29,6 +29,6 @@ GitHub, a canvas for developers to shine,
 Unleashing their potential, line by line.
 
 So embark on this journey, eager and bold,
-GitHub's embrace, a story yet untold.
+Git's embrace, a story yet untold.
 Learn, create, and forge your own way,
 In the vibrant world of code, day by day.
