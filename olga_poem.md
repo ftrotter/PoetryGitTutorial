@@ -18,7 +18,7 @@ Collaborators unite, as ideas accrue.
 Issues and milestones, tracking our goals,
 Resolving conflicts, harmonizing souls.
 
-From READMEs to wikis, documentation prevails,
+From ReadMes to wikis, documentation prevails,
 Guiding others through detailed trails.
 Actions and workflows, automation's grace,
 Streamlining processes, saving time and space.
